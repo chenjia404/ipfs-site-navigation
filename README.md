@@ -1,5 +1,9 @@
 # ipfs navigation
 
+> [webui](http://127.0.0.1:5001/webui)
+
+> [hardbin](http://127.0.0.1:8080/ipfs/QmR2NPtsbbnRHbsLsAjrnvGSS3hySLXrQsSqpM99Do8hAt)
+
 > [wikipedia English ](http://127.0.0.1:8080/ipfs/bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze)
 
 > [wikipedia Turkish](http://127.0.0.1:8080/ipfs/bafybeieuutdavvf55sh3jktq2dpi2hkle6dtmebe7uklod3ramihyf3xa4)
